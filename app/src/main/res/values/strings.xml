@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="msg_display">Here is a random number between 0 and %1d</string>
+</resources>
